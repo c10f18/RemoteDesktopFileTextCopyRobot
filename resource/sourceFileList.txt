@@ -1,0 +1,27 @@
+C:\Users\vm\Documents\a
+C:\Users\vm\Documents\b
+C:\Users\vm\Documents\c
+C:\Users\vm\Documents\fileList.txt
+C:\Users\vm\Documents\a\config - 복사본 (2).properties
+C:\Users\vm\Documents\a\config - 복사본 (3).properties
+C:\Users\vm\Documents\a\config - 복사본 (4).properties
+C:\Users\vm\Documents\a\config - 복사본 (5).properties
+C:\Users\vm\Documents\a\config - 복사본 (6).properties
+C:\Users\vm\Documents\a\config - 복사본 (7).properties
+C:\Users\vm\Documents\a\config - 복사본.properties
+C:\Users\vm\Documents\a\config.properties
+C:\Users\vm\Documents\b\config - 복사본 (2).properties
+C:\Users\vm\Documents\b\config - 복사본 (3).properties
+C:\Users\vm\Documents\b\config - 복사본 (4).properties
+C:\Users\vm\Documents\b\config - 복사본 (5).properties
+C:\Users\vm\Documents\b\config - 복사본.properties
+C:\Users\vm\Documents\b\config.properties
+C:\Users\vm\Documents\c\config - 복사본 (2).properties
+C:\Users\vm\Documents\c\config - 복사본.properties
+C:\Users\vm\Documents\c\config.properties
+C:\Users\vm\Documents\c\test
+C:\Users\vm\Documents\c\test\config - 복사본.properties
+C:\Users\vm\Documents\c\test\config.properties
+C:\Users\vm\Documents\c\test\test2
+C:\Users\vm\Documents\c\test\test2\config - 복사본.properties
+C:\Users\vm\Documents\c\test\test2\config.properties
